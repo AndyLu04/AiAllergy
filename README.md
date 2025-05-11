@@ -1,3 +1,3 @@
 # AiAllergy
 
-![the device and app prototype](./device_real.png)
+![the device and app prototype](./device_real.jpg)
